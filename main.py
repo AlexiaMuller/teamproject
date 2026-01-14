@@ -1,3 +1,5 @@
+#It's actually AI code yes thank you gemini lol
+
 def add(x, y):
     return x + y
 

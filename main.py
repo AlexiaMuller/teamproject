@@ -21,6 +21,7 @@ def calculator():
     print("2. Subtract")
     print("3. Multiply")
     print("4. Divide")
+    print("--------------------------------")
 
     while True:
         choice = input("\nEnter choice (1/2/3/4) or 'q' to quit: ")
